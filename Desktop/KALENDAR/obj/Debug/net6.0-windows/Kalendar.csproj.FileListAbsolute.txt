@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/KALENDAR/bin/Debug/net6.0-windows/Kalendar
+/Users/macbook/Desktop/KALENDAR/bin/Debug/net6.0-windows/Kalendar.deps.json
+/Users/macbook/Desktop/KALENDAR/bin/Debug/net6.0-windows/Kalendar.runtimeconfig.json
+/Users/macbook/Desktop/KALENDAR/bin/Debug/net6.0-windows/Kalendar.dll
+/Users/macbook/Desktop/KALENDAR/bin/Debug/net6.0-windows/Kalendar.pdb
+/Users/macbook/Desktop/KALENDAR/obj/Debug/net6.0-windows/Kalendar.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/KALENDAR/obj/Debug/net6.0-windows/Kalendar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/KALENDAR/obj/Debug/net6.0-windows/Kalendar.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/KALENDAR/obj/Debug/net6.0-windows/Kalendar.AssemblyInfo.cs
+/Users/macbook/Desktop/KALENDAR/obj/Debug/net6.0-windows/Kalendar.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/KALENDAR/obj/Debug/net6.0-windows/Kalendar.dll
+/Users/macbook/Desktop/KALENDAR/obj/Debug/net6.0-windows/refint/Kalendar.dll
+/Users/macbook/Desktop/KALENDAR/obj/Debug/net6.0-windows/Kalendar.pdb
+/Users/macbook/Desktop/KALENDAR/obj/Debug/net6.0-windows/Kalendar.genruntimeconfig.cache
+/Users/macbook/Desktop/KALENDAR/obj/Debug/net6.0-windows/ref/Kalendar.dll
